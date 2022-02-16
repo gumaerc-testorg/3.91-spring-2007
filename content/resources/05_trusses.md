@@ -7,8 +7,13 @@ description: 'This file contains information about truss which is an assemblage 
 
   have a dimensional simplicity that will help us extend further the concepts of mechanics
   introduced in the modules dealing with uniaxial response.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-91-mechanical-behavior-of-plastics-spring-2007/3727c43985b09ce1601dc18850441542_05_trusses.pdf
+file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/3727c43985b09ce1601dc18850441542_05_trusses.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 05_trusses.pdf
 uid: 3727c439-85b0-9ce1-601d-c18850441542

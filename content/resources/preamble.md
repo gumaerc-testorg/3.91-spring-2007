@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains a preamble to mechanics modules with discussion
   of the modular approach, and mechanics and materials science.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-91-mechanical-behavior-of-plastics-spring-2007/eb1653753963a522c124e13567aaa96d_preamble.pdf
+file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/eb1653753963a522c124e13567aaa96d_preamble.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: preamble.pdf
 uid: eb165375-3963-a522-c124-e13567aaa96d
