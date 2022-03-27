@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 29epoxy_cure.pdf
 uid: 0e0882f2-995d-f144-fb19-27113e71670e

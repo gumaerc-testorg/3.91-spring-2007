@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3845ca77-deb4-0285-6930-1dfc6989ad52
 resourcetype: Other
 title: plate07.exe
 uid: 048cfce3-84be-3971-c754-68737485e398

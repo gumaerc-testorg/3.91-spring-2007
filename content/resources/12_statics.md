@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 12_statics.pdf
 uid: 2644ca19-e120-e815-8947-3d2d2d36a772

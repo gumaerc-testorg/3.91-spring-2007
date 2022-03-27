@@ -279,7 +279,7 @@ Fortran code
 
 To run in MIT Server, type "add 3.11", then "plate"
 
-Download plate source code: vplate\_3\_91.f90 ([F90](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/vplate_3_91.f90))
+Download plate source code: vplate\_3\_91.f90 ([F90]({{< baseurl >}}/resources/vplate_3_91))
 
 Download a PC executable: vplate2.exe ([EXE]({{< baseurl >}}/resources/vplate2))
 
@@ -299,11 +299,11 @@ Laminates: Temperature and viscoelastic effects
 Codes
 -----
 
-Source code for temperature-dependent laminate analysis: HOTPLATE.FOR ([FOR](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/HOTPLATE.FOR))
+Source code for temperature-dependent laminate analysis: HOTPLATE.FOR ([FOR]({{< baseurl >}}/resources/hotplate))
 
-Hotplate PC executable: HOTPLATE.EXE ([EXE]({{< baseurl >}}/resources/hotplate))
+Hotplate PC executable: HOTPLATE.EXE ([EXE]({{< baseurl >}}/resources/hotplate-1))
 
-Source code for viscoelastic laminate analysis: plate07.f90 ([F90](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/plate07.f90))
+Source code for viscoelastic laminate analysis: plate07.f90 ([F90]({{< baseurl >}}/resources/plate07-1))
 
 Vplate PC executable: plate07.exe ([EXE]({{< baseurl >}}/resources/plate07))
 

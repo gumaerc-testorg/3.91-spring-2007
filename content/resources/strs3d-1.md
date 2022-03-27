@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Other
 title: strs3d.exe
 uid: 218f94dc-8565-d04f-d5ae-b3ff7742cc9a

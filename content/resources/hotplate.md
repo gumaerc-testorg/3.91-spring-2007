@@ -1,14 +1,16 @@
 ---
 content_type: resource
-description: This resource contains the Hotplate PC executable.
-file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/04072c6405bd495147452e611386c254_HOTPLATE.EXE
-file_type: application/x-ms-dos-executable
+description: This resource contains the source code for temperature-dependent laminate
+  analysis.
+file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/cd0ebda5bdaa75b4ff715f66b1a79007_HOTPLATE.FOR
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3845ca77-deb4-0285-6930-1dfc6989ad52
 resourcetype: Other
-title: HOTPLATE.EXE
-uid: 04072c64-05bd-4951-4745-2e611386c254
+title: HOTPLATE.FOR
+uid: cd0ebda5-bdaa-75b4-ff71-5f66b1a79007
 ---

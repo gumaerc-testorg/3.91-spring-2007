@@ -78,7 +78,7 @@ The results presented in earlier modules for trusses, beams, and other simple sh
 
 ### Appendices
 
-1.  Material properties ([PDF]({{< baseurl >}}/resources/a1_props)), Table of properties ([PDF]({{< baseurl >}}/resources/props)), props ([CSV](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/readings/props.csv))
+1.  Material properties ([PDF]({{< baseurl >}}/resources/a1_props)), Table of properties ([PDF]({{< baseurl >}}/resources/props)), props ([CSV]({{< baseurl >}}/resources/props-1))
 2.  Matrix and index notation ([PDF]({{< baseurl >}}/resources/a2_index))
 3.  List of symbols ([PDF]({{< baseurl >}}/resources/a3_sym))
 4.  Unit conversion factors ([PDF]({{< baseurl >}}/resources/a4_units))

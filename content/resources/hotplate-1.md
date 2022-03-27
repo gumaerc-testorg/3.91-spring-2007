@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: This resource contains the Vplate2 PC executable.
-file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/288f28b39bd6d04b47d45df4db5cc656_vplate2.exe
+description: This resource contains the Hotplate PC executable.
+file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/04072c6405bd495147452e611386c254_HOTPLATE.EXE
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Assignments
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 3845ca77-deb4-0285-6930-1dfc6989ad52
 resourcetype: Other
-title: vplate2.exe
-uid: 288f28b3-9bd6-d04b-47d4-5df4db5cc656
+title: HOTPLATE.EXE
+uid: 04072c64-05bd-4951-4745-2e611386c254
 ---

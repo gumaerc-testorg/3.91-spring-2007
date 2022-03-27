@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: 05_trusses.pdf
 uid: 3727c439-85b0-9ce1-601d-c18850441542
