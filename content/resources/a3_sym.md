@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a list of symbols used in the course.
-file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/31726e85214bde05c34a6cb818ec0528_a3_sym.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/31726e85214bde05c34a6cb818ec0528_a3_sym.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -12,4 +12,10 @@ parent_uid: 106c3e7c-a318-1592-5947-71c83f813f89
 resourcetype: Document
 title: a3_sym.pdf
 uid: 31726e85-214b-de05-c34a-6cb818ec0528
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains a list of symbols used in the course.
+

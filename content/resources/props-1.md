@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a supplement on props.
-file: /media/courses/3-91-mechanical-behavior-of-plastics-spring-2007/bccb6e4f74ae7f19c9e70746149123ae_props.csv
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/bccb6e4f74ae7f19c9e70746149123ae_props.csv
 file_type: text/plain
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Other
 title: props.csv
 uid: bccb6e4f-74ae-7f19-c9e7-0746149123ae
 ---
+This resource contains a supplement on props.
+
