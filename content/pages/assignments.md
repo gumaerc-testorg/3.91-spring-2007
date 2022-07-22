@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the course assignments and related files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3845ca77-deb4-0285-6930-1dfc6989ad52
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Each assignment is due during the next class session.
@@ -24,7 +32,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, overview of polymers ([PDF]({{< baseurl >}}/resources/01hw1))
+Introduction, overview of polymers ({{% resource_link a1fb0de9-aae3-db7c-f22e-5898b1c43bfb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +59,7 @@ Structure
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Elastic response ([PDF]({{< baseurl >}}/resources/04p1_8))
+Elastic response ({{% resource_link 3029cde7-2461-2e58-b008-ae2b85be2121 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +86,7 @@ Stress
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Transformations of stress and strain ([PDF]({{< baseurl >}}/resources/07p10_6))
+Transformations of stress and strain ({{% resource_link 51c0d8fe-0993-c227-2f37-c5958e348bf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +95,7 @@ Transformations of stress and strain ([PDF]({{< baseurl >}}/resources/07p10_6))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Hookean elasticity ([PDF]({{< baseurl >}}/resources/08p11_2))
+Hookean elasticity ({{% resource_link 1ce4b0af-0ac4-08e7-85f2-5aa92adf1830 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +113,7 @@ Gaussian chain statistics
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Rubber elasticity ([PDF]({{< baseurl >}}/resources/10p2_7))
+Rubber elasticity ({{% resource_link e9f00136-8980-ceaf-ce80-b406ae1c19ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +122,7 @@ Rubber elasticity ([PDF]({{< baseurl >}}/resources/10p2_7))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Elastomer mechanics ([PDF]({{< baseurl >}}/resources/11p6_8_9))
+Elastomer mechanics ({{% resource_link a1fb4044-529e-e5c3-7ade-8d91e5fb18b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +131,7 @@ Elastomer mechanics ([PDF]({{< baseurl >}}/resources/11p6_8_9))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to linear viscoelasticity ([PDF]({{< baseurl >}}/resources/12p19_1_2))
+Introduction to linear viscoelasticity ({{% resource_link 3ce15b7f-e960-fdfc-0429-aea1913650c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +158,7 @@ Quiz 1
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamic response ([PDF]({{< baseurl >}}/resources/15p19_4))
+Dynamic response ({{% resource_link a241cb4f-e3fc-eebe-c9de-f8e321c928c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +176,7 @@ The Maxwell spring-dashpot model
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Standard linear solid ([PDF]({{< baseurl >}}/resources/17p19_6_8))
+Standard linear solid ({{% resource_link 8aa53891-6741-fad4-e910-1bf5c79ce206 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +185,7 @@ Standard linear solid ([PDF]({{< baseurl >}}/resources/17p19_6_8))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Wiechert solid, Boltzman superposition ([PDF]({{< baseurl >}}/resources/18p19_11))
+Wiechert solid, Boltzman superposition ({{% resource_link e07ee427-f804-9d3e-1371-28d028ee06b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +194,7 @@ Wiechert solid, Boltzman superposition ([PDF]({{< baseurl >}}/resources/18p19_11
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Effect of temperature ([PDF]({{< baseurl >}}/resources/19p19_17_18))
+Effect of temperature ({{% resource_link 976b7a7a-41de-eb41-fdf3-b66d56600821 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +203,7 @@ Effect of temperature ([PDF]({{< baseurl >}}/resources/19p19_17_18))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Effect of temperature (cont.) ([PDF]({{< baseurl >}}/resources/20p19_19))
+Effect of temperature (cont.) ({{% resource_link d3a17fdb-cefb-6bf5-2751-d0441cd08dde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +212,7 @@ Effect of temperature (cont.) ([PDF]({{< baseurl >}}/resources/20p19_19))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Multiaxial stresses ([PDF]({{< baseurl >}}/resources/22p19_20))
+Multiaxial stresses ({{% resource_link eb3c2e3d-c4a4-a407-c81e-6b83199574ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +230,7 @@ Stress analysis: Superposition
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Stress analysis: Correspondence principle ([PDF]({{< baseurl >}}/resources/24p19_21_22))
+Stress analysis: Correspondence principle ({{% resource_link f1e62550-3af4-1915-886c-9b51300b2b24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +239,7 @@ Stress analysis: Correspondence principle ([PDF]({{< baseurl >}}/resources/24p19
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Composite materials, rule of mixtures ([PDF]({{< baseurl >}}/resources/25p3_1_2))
+Composite materials, rule of mixtures ({{% resource_link 4c9b4d8c-cace-d47e-d376-10e8eba2c953 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +248,7 @@ Composite materials, rule of mixtures ([PDF]({{< baseurl >}}/resources/25p3_1_2)
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanics of composites ([PDF]({{< baseurl >}}/resources/26p3_3))
+Mechanics of composites ({{% resource_link 7f2adc25-a193-1b85-ac7f-66c272d8fc69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +266,7 @@ Quiz 2
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Composite laminates: Anisotropy and transformations ([PDF]({{< baseurl >}}/resources/29p15_1_2))
+Composite laminates: Anisotropy and transformations ({{% resource_link 1585a05f-6411-23fe-50f9-9d6711807826 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,16 +277,16 @@ Composite laminates: Anisotropy and transformations ([PDF]({{< baseurl >}}/resou
 {{< tdopen >}}
 
 
-Laminates: Plate bending ([PDF]({{< baseurl >}}/resources/30p15_5))
+Laminates: Plate bending ({{% resource_link 2a7e57b2-a1c8-c60c-39e2-5388d615e4e7 "PDF" %}})
 
 Fortran code
 ------------
 
 To run in MIT Server, type "add 3.11", then "plate"
 
-Download plate source code: vplate\_3\_91.f90 ([F90](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/vplate_3_91.f90))
+Download plate source code: vplate\_3\_91.f90 ({{% resource_link 03543a72-3bd5-641f-6447-35113151d91c "F90" %}})
 
-Download a PC executable: vplate2.exe ([EXE]({{< baseurl >}}/resources/vplate2))
+Download a PC executable: vplate2.exe ({{% resource_link 288f28b3-9bd6-d04b-47d4-5df4db5cc656 "EXE" %}})
 
 
 {{< tdclose >}}
@@ -296,13 +304,13 @@ Laminates: Temperature and viscoelastic effects
 Codes
 -----
 
-Source code for temperature-dependent laminate analysis: HOTPLATE.FOR ([FOR](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/HOTPLATE.FOR))
+Source code for temperature-dependent laminate analysis: HOTPLATE.FOR ({{% resource_link cd0ebda5-bdaa-75b4-ff71-5f66b1a79007 "FOR" %}})
 
-Hotplate PC executable: HOTPLATE.EXE ([EXE]({{< baseurl >}}/resources/hotplate))
+Hotplate PC executable: HOTPLATE.EXE ({{% resource_link 04072c64-05bd-4951-4745-2e611386c254 "EXE" %}})
 
-Source code for viscoelastic laminate analysis: plate07.f90 ([F90](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/assignments/plate07.f90))
+Source code for viscoelastic laminate analysis: plate07.f90 ({{% resource_link b936fda1-8fdf-f554-5219-7b7e0520f39d "F90" %}})
 
-Vplate PC executable: plate07.exe ([EXE]({{< baseurl >}}/resources/plate07))
+Vplate PC executable: plate07.exe ({{% resource_link 048cfce3-84be-3971-c754-68737485e398 "EXE" %}})
 
 
 {{< tdclose >}}
@@ -313,7 +321,7 @@ Vplate PC executable: plate07.exe ([EXE]({{< baseurl >}}/resources/plate07))
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Yield ([PDF]({{< baseurl >}}/resources/32p4_8))
+Yield ({{% resource_link feb6aca4-ce5d-2928-0f5a-47445d453b44 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +348,7 @@ Yield: Effect of hydrostatic stress, crazing
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Yield: Effect of rate and temperature ([PDF]({{< baseurl >}}/resources/35p20_10))
+Yield: Effect of rate and temperature ({{% resource_link 022db5bd-41c2-6761-5737-d71c3e28e7ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

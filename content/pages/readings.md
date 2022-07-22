@@ -1,12 +1,22 @@
 ---
 content_type: page
+description: This section provides information about textbooks, modules in mechanics
+  of materials, a calendar of reading assignments by lecture session, and a list of
+  references for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 106c3e7c-a318-1592-5947-71c83f813f89
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page contains a [calendar](#Calendar) of reading assignments by lecture session.
 
-List of references for the course ([PDF]({{< baseurl >}}/resources/references))
+List of references for the course ({{% resource_link a74bf2fc-8a97-58ae-5aa6-17bbb4f52986 "PDF" %}})
 
 Textbooks
 ---------
@@ -18,7 +28,7 @@ Roylance, David. _Mechanics of Materials_. New York, NY: John Wiley, 1995. ISBN:
 Modules in Mechanics of Materials
 ---------------------------------
 
-Preamble to Mechanics Modules ([PDF]({{< baseurl >}}/resources/preamble))
+Preamble to Mechanics Modules ({{% resource_link eb165375-3963-a522-c124-e13567aaa96d "PDF" %}})
 
 ### Chapter 1: Tensile Response of Materials
 
@@ -75,16 +85,16 @@ The results presented in earlier modules for trusses, beams, and other simple sh
 
 ### Appendices
 
-1.  Material properties ([PDF]({{< baseurl >}}/resources/a1_props)), Table of properties ([PDF]({{< baseurl >}}/resources/props)), props ([CSV](/courses/materials-science-and-engineering/3-91-mechanical-behavior-of-plastics-spring-2007/readings/props.csv))
-2.  Matrix and index notation ([PDF]({{< baseurl >}}/resources/a2_index))
-3.  List of symbols ([PDF]({{< baseurl >}}/resources/a3_sym))
-4.  Unit conversion factors ([PDF]({{< baseurl >}}/resources/a4_units))
+1.  Material properties ({{% resource_link 25089232-a0d8-507e-23d0-76fe5d9ebbee "PDF" %}}), Table of properties ({{% resource_link 75de4a5c-faba-0c00-a5a7-2b25500b1149 "PDF" %}}), props ({{% resource_link bccb6e4f-74ae-7f19-c9e7-0746149123ae "CSV" %}})
+2.  Matrix and index notation ({{% resource_link f8125a39-7260-6f70-7c32-6f6a23b0b438 "PDF" %}})
+3.  List of symbols ({{% resource_link 31726e85-214b-de05-c34a-6cb818ec0528 "PDF" %}})
+4.  Unit conversion factors ({{% resource_link 8b383f9c-49ee-730c-0af4-8c34512d3318 "PDF" %}})
 
 ### Software
 
 1.  [Mohr's circle](http://web.mit.edu/course/3/3.11/www/java/mohr.html) (JAVA™ Applets)
-2.  strs3d - Stress transformations ([PDF]({{< baseurl >}}/resources/strs3d)), PC-executable version: strs3d.exe ([EXE]({{< baseurl >}}/resources/strs3d-1))
-3.  Plate - Laminated plates ([PDF]({{< baseurl >}}/resources/plate-1)), PC-executable version: plate.exe ([EXE]({{< baseurl >}}/resources/plate))
+2.  strs3d - Stress transformations ({{% resource_link 5d65cfa3-8f1c-815e-4061-e2ae59d12269 "PDF" %}}), PC-executable version: strs3d.exe ({{% resource_link 218f94dc-8565-d04f-d5ae-b3ff7742cc9a "EXE" %}})
+3.  Plate - Laminated plates ({{% resource_link 83471190-3364-af2c-f5e2-7bcb90fab8e7 "PDF" %}}), PC-executable version: plate.exe ({{% resource_link c9adebad-715a-d212-c161-c4108b7cb3f0 "EXE" %}})
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar Reading Assignments
 --------------------------------------------------------------------
@@ -441,7 +451,7 @@ Multiaxial stresses
 
 Module 19, pp. 23-26.
 
-Ultrasonic heating study ([PDF]({{< baseurl >}}/resources/22utl))
+Ultrasonic heating study ({{% resource_link 8fe2f771-4e9c-6137-0552-61b36bc5fbaf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -541,7 +551,7 @@ Module 15, pp. 1-6.
 
 Gillham article: Gillham, John K. "Formation and Properties of Thermosetting and High Tg Polymeric Materials." _Polymer Engineering and Science_ 26 (1986): 1429-1433.
 
-Epoxy cure study ([PDF]({{< baseurl >}}/resources/29epoxy_cure))
+Epoxy cure study ({{% resource_link 0e0882f2-995d-f144-fb19-27113e71670e "PDF" %}})
 
 
 {{< tdclose >}}
