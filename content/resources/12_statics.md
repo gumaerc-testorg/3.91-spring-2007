@@ -6,6 +6,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/2644ca19e120e815
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information about free-body diagrams, distributed loads, successive integration method, and singularity functions.
-

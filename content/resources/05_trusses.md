@@ -11,6 +11,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/3727c43985b09ce1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
 ---
 This file contains information about truss which is an assemblage of long, slender structural elements that are connected at their ends. Trusses ?nd substantial use in modern construction, for instance as towers, bridges, sca?olding, etc. In addition to their practical importance as useful structures, truss elements
 have a dimensional simplicity that will help us extend further the concepts of mechanics introduced in the modules dealing with uniaxial response.
-

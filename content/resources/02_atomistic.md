@@ -6,6 +6,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/72b3df54188c536a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains introduction of atomistic basis of elasticity, energetic e?ects, ionic materials, and metallic materials.
-

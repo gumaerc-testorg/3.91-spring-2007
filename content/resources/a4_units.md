@@ -5,6 +5,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/8b383f9c49ee730c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides unit conversion factors for the course.
-

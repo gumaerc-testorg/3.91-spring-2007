@@ -6,6 +6,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/411e40182a4d1b06
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information about how the strains ? the stretching and distortion ? within a loaded body relate to the body?s displacements.
-

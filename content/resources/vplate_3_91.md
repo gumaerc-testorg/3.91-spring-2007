@@ -5,6 +5,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/03543a723bd5641f
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vplate_3_91.f90
 uid: 03543a72-3bd5-641f-6447-35113151d91c
 ---
 This resource contains the plate source code.
-

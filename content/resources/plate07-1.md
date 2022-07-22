@@ -5,6 +5,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/b936fda18fdff554
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: plate07.f90
 uid: b936fda1-8fdf-f554-5219-7b7e0520f39d
 ---
 This resource contains the source code for viscoelastic laminate analysis.
-

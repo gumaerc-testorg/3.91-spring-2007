@@ -6,6 +6,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/ee889472ac45a204
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information about S-N curves, e?ect of mean load, Miner?s law for cumulative damage, and crack growth rates.
-

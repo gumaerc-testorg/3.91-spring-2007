@@ -7,6 +7,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/7cef9270278ccb2f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information about shearing stresses and strains, statics - twisting moments, torsional stresses and displacements, energy method for rotational displacement, and noncircular sections: the prandtl membrane analogy.
-

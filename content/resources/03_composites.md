@@ -10,6 +10,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/a4d6750d1f2a3f88
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
 ---
 This file introduces basic concepts of sti?ness and strength underlying the mechanics of ?ber-reinforced advanced composite materials, and will deal primarily with unidirectionally-reinforced
 continuous-?ber composites, and with properties measured along and transverse to the ?ber direction.
-

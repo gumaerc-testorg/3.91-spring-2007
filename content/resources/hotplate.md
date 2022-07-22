@@ -5,6 +5,7 @@ file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/04072c6405bd4951
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the Hotplate PC executable.
-
