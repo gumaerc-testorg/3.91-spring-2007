@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information about normal stresses, buckling, and shear
   stresses.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/19f0e5ed0cd050837baa34bff76ad347_13_bstress.pdf
+file_size: 451803
 file_type: application/pdf
 learning_resource_types:
 - Readings

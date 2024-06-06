@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the Plate PC executable.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/c9adebad715ad212c161c4108b7cb3f0_plate.exe
+file_size: 192512
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Readings
