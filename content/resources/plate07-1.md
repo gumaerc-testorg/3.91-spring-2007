@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the source code for viscoelastic laminate analysis.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/b936fda18fdff55452197b7e0520f39d_plate07.f90
+file_size: 7959
 file_type: text/plain
 learning_resource_types:
 - Assignments

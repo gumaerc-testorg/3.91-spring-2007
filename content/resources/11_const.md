@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information about isotropic elastic materials, hydrostatic
   and distortional components, finite strain model, andanisotropic materials.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/58319e60cd4a5b53e50b5909939e97cc_11_const.pdf
+file_size: 293463
 file_type: application/pdf
 learning_resource_types:
 - Readings

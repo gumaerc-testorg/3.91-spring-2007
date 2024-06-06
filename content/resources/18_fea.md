@@ -4,6 +4,7 @@ description: This file contains information about matrix analysis of trusses, St
   matrix for a single truss element, assembly of multiple element contributions, general
   stress analysis, and stresses around a circular hole.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/ea23d1bd2c915914cf76e3b3a302f9e2_18_fea.pdf
+file_size: 428930
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information about tensile strength and tensile stress,
   sti?ness, deformation of a column, and few problems.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/f6536249600e453536e04776dbb876a1_01_elast.pdf
+file_size: 322962
 file_type: application/pdf
 learning_resource_types:
 - Readings
