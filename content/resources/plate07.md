@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the Vplate PC executable.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/048cfce384be3971c75468737485e398_plate07.exe
+file_size: 294912
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Assignments

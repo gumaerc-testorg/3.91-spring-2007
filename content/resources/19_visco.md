@@ -4,6 +4,7 @@ description: This files contains information about molecular mechanisms, phenome
   aspects, stress relaxation, dynamic loading, and mathematical models for linear
   viscoelastic response.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/3828997b92ebb6cb70e640826be1c5f2_19_visco.pdf
+file_size: 687907
 file_type: application/pdf
 learning_resource_types:
 - Readings

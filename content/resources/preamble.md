@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a preamble to mechanics modules with discussion
   of the modular approach, and mechanics and materials science.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/eb1653753963a522c124e13567aaa96d_preamble.pdf
+file_size: 147199
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on matrix and index notation.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/f8125a3972606f707c326f6a23b0b438_a2_index.pdf
+file_size: 96021
 file_type: application/pdf
 learning_resource_types:
 - Readings

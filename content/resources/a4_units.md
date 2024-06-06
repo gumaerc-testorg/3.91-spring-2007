@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides unit conversion factors for the course.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/8b383f9c49ee730c0af48c34512d3318_a4_units.pdf
+file_size: 60713
 file_type: application/pdf
 learning_resource_types:
 - Readings

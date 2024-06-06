@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on ultrasonic heating.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/8fe2f7714e9c6137055261b36bc5fbaf_22utl.pdf
+file_size: 343994
 file_type: application/pdf
 learning_resource_types:
 - Readings

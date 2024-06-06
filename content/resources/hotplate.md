@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the Hotplate PC executable.
 file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/04072c6405bd495147452e611386c254_HOTPLATE.EXE
+file_size: 42528
 file_type: application/x-ms-dos-executable
 learning_resource_types:
 - Assignments
