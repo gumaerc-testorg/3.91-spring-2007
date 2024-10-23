@@ -3,7 +3,7 @@ content_type: resource
 description: This file contain information about stress-strain curves which are extremely
   important graphical measure of a material?s mechanical properties, and all students
   of Mechanics of Materials will encounter them often.
-file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/3a897788136a567881ff5c4ff10ca780_04_stress.pdf
+file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/3a897788136a567881ff5c4ff10ca780_04_stress.pdf
 file_size: 304430
 file_type: application/pdf
 learning_resource_types:
