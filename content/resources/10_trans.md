@@ -3,7 +3,7 @@ content_type: resource
 description: Tihs file consists of introduction of transformation of stresses and
   strains, direct approach, Mohr?s circle, general approach, and principal stresses
   and planes in three dimensions.
-file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/38b2732cd4d1efffbfe95ebe706f7b95_10_trans.pdf
+file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/38b2732cd4d1efffbfe95ebe706f7b95_10_trans.pdf
 file_size: 396096
 file_type: application/pdf
 learning_resource_types:

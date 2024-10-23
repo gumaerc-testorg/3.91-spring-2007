@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about material properties.
-file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/25089232a0d8507e23d076fe5d9ebbee_a1_props.pdf
+file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/25089232a0d8507e23d076fe5d9ebbee_a1_props.pdf
 file_size: 15548
 file_type: application/pdf
 learning_resource_types:

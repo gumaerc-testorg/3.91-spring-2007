@@ -6,7 +6,7 @@ description: 'This file introduces basic concepts of sti?ness and strength under
 
   continuous-?ber composites, and with properties measured along and transverse to
   the ?ber direction.'
-file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/a4d6750d1f2a3f8834338507b209657b_03_composites.pdf
+file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/a4d6750d1f2a3f8834338507b209657b_03_composites.pdf
 file_size: 227167
 file_type: application/pdf
 learning_resource_types:
