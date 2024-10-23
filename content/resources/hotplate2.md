@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the source code for temperature-dependent laminate
   analysis.
-file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/cd0ebda5bdaa75b4ff715f66b1a79007_HOTPLATE.FOR
+file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/cd0ebda5bdaa75b4ff715f66b1a79007_HOTPLATE.FOR
 file_size: 13378
 file_type: text/plain
 learning_resource_types:
