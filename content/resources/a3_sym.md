@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a list of symbols used in the course.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/31726e85214bde05c34a6cb818ec0528_a3_sym.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/31726e85214bde05c34a6cb818ec0528_a3_sym.pdf
 file_size: 84996
 file_type: application/pdf
 learning_resource_types:

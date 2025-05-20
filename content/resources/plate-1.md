@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the Fortran source code for laminated plate calculations.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/834711903364af2cf5e27bcb90fab8e7_plate.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/834711903364af2cf5e27bcb90fab8e7_plate.pdf
 file_size: 44847
 file_type: application/pdf
 learning_resource_types:

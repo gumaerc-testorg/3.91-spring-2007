@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/aea7a0fc0e45e00faacba06db18b5fd8_22_stat.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/aea7a0fc0e45e00faacba06db18b5fd8_22_stat.pdf
 file_size: 605504
 file_type: application/pdf
 learning_resource_types:
