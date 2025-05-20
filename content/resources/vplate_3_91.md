@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the plate source code.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/03543a723bd5641f644735113151d91c_vplate_3_91.f90
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/03543a723bd5641f644735113151d91c_vplate_3_91.f90
 file_size: 11141
 file_type: text/plain
 learning_resource_types:

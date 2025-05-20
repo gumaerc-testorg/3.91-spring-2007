@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample questions for quiz 2.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/39e9663d52de951566b0116620ef5ad5_q2_sample.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/39e9663d52de951566b0116620ef5ad5_q2_sample.pdf
 file_size: 53789
 file_type: application/pdf
 learning_resource_types:

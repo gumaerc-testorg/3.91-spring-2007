@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information about multiaxial stress states, e?ect
   of rate and temperature, e?ect of rate and temperature, e?ect of rate and temperature,
   continuum plasticity, plastic deformation, slip-line ?elds, and wire drawing.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/cfce4c3be76334c26cb9fc4dee5820d1_20_yield.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/cfce4c3be76334c26cb9fc4dee5820d1_20_yield.pdf
 file_size: 449466
 file_type: application/pdf
 learning_resource_types:

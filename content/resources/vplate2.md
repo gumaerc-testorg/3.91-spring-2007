@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the Vplate2 PC executable.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/288f28b39bd6d04b47d45df4db5cc656_vplate2.exe
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/288f28b39bd6d04b47d45df4db5cc656_vplate2.exe
 file_size: 217088
 file_type: application/x-ms-dos-executable
 learning_resource_types:
