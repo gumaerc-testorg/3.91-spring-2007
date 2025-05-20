@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a list of references for the course.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/a74bf2fc8a9758ae5aa617bbb4f52986_references.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/a74bf2fc8a9758ae5aa617bbb4f52986_references.pdf
 file_size: 10860
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This files contains information about multiple integration, energy method,
   and superposition.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/db3dd94238ceb7a9796bf5c7773afa0e_14_bdisp.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/db3dd94238ceb7a9796bf5c7773afa0e_14_bdisp.pdf
 file_size: 311076
 file_type: application/pdf
 learning_resource_types:

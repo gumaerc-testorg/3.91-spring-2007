@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a table of properties of materials.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/75de4a5cfaba0c00a5a72b25500b1149_props.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/75de4a5cfaba0c00a5a72b25500b1149_props.pdf
 file_size: 50049
 file_type: application/pdf
 learning_resource_types:

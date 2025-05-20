@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains introduction of atomistic basis of elasticity, energetic
   e?ects, ionic materials, and metallic materials.
-file: /ol-ocw-studio-app/courses/3-91-mechanical-behavior-of-plastics-spring-2007/72b3df54188c536a1810c60a385418dc_02_atomistic.pdf
+file: /courses/3-91-mechanical-behavior-of-plastics-spring-2007/72b3df54188c536a1810c60a385418dc_02_atomistic.pdf
 file_size: 435339
 file_type: application/pdf
 learning_resource_types:
