@@ -92,7 +92,7 @@ The results presented in earlier modules for trusses, beams, and other simple sh
 
 ### Software
 
-1.  [Mohr's circle](http://web.mit.edu/course/3/3.11/www/java/mohr.html) (JAVA™ Applets)
+1.  {{% resource_link "dd7108a6-bad9-4d7d-a8d7-3a9208068997" "Mohr's circle" %}} (JAVA™ Applets)
 2.  strs3d - Stress transformations ({{% resource_link 5d65cfa3-8f1c-815e-4061-e2ae59d12269 "PDF" %}}), PC-executable version: strs3d.exe ({{% resource_link 218f94dc-8565-d04f-d5ae-b3ff7742cc9a "EXE" %}})
 3.  Plate - Laminated plates ({{% resource_link 83471190-3364-af2c-f5e2-7bcb90fab8e7 "PDF" %}}), PC-executable version: plate.exe ({{% resource_link c9adebad-715a-d212-c161-c4108b7cb3f0 "EXE" %}})
 
